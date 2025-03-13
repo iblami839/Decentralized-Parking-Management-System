@@ -15,3 +15,5 @@ R
 "contracts/violation-reporting.clar,f/c/fc92c0e0a7462dae61e63dadd4e4b5f92f85d085
 I
 tests/reservation.test.ts,5/f/5f7a6d6790563db3c5897233bbae5d8239765b29
+Q
+!tests/violation-reporting.test.ts,7/0/70f132d9e9720e363323c393f1f16c2e533dc10a
